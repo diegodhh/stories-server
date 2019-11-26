@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb://localhost/herror_stories",
+    "jwtSecret": "secreta1234"
+}
